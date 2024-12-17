@@ -1,5 +1,5 @@
---- Day 1: Historian Hysteria ---
-
+# [--- Day 1: Historian Hysteria ---](https://adventofcode.com/2024/day/1)
+## Part 1
 The Chief Historian is always present for the big Christmas sleigh launch, but nobody has seen him in months! Last anyone heard, he was visiting locations that are historically significant to the North Pole; a group of Senior Historians has asked you to accompany them as they check the places they think he was most likely to visit.
 
 As each location is checked, they will mark it on their list with a star. They figure the Chief Historian must be in one of the first fifty places they'll look, so in order to save Christmas, you need to help them get fifty stars on their list before Santa takes off on December 25th.
@@ -39,3 +39,7 @@ In the example list above, the pairs and distances would be as follows:
 To find the total distance between the left list and the right list, add up the distances between all of the pairs you found. In the example above, this is 2 + 1 + 0 + 1 + 2 + 5, a total distance of 11!
 
 Your actual left and right lists contain many location IDs. What is the total distance between your lists?
+
+### Solution
+
+## Part 2
